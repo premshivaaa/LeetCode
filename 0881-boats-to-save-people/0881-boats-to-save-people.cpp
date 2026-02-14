@@ -6,14 +6,13 @@ public:
 
         while(left <= right){
             if((people[left] + people[right]) <= limit){
-                //boats++;
+                boats++;
                 left++;
                 right--;
             } else{
                 right--;
-                //boats++;
+                boats++;
             }
-            boats++;
         }
 
         return boats;
