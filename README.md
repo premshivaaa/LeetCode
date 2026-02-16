@@ -69,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/premshivaaa/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/premshivaaa/LeetCode/tree/master/0991-broken-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/premshivaaa/LeetCode/tree/master/0055-jump-game) |
+## Math
+|  |
+| ------- |
+| [0991-broken-calculator](https://github.com/premshivaaa/LeetCode/tree/master/0991-broken-calculator) |
 <!---LeetCode Topics End-->
