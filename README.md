@@ -77,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/premshivaaa/LeetCode/tree/master/0007-reverse-integer) |
 | [0991-broken-calculator](https://github.com/premshivaaa/LeetCode/tree/master/0991-broken-calculator) |
 <!---LeetCode Topics End-->
