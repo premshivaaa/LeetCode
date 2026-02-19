@@ -12,14 +12,14 @@
 class Solution {
 public:
 
-    bool validate(TreeNode* node, long minVal, long maxVal) {
-        if (!node) return true;
+    bool validate(TreeNode* node, long min, long max){
+        if(node == NULL) return true;
 
-        if (node->val <= minVal || node->val >= maxVal)
+        if(node->val <= min || node->val >= max){
             return false;
+        }
 
-        return validate(node->left, minVal, node->val) &&
-               validate(node->right, node->val, maxVal);
+        return validate(node->left, min, node->val) && validate(node->right, node->val, max);
     }
 
     bool isValidBST(TreeNode* root) {
