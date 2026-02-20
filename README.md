@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/premshivaaa/LeetCode/tree/master/0991-broken-calculator) |
+| [1328-break-a-palindrome](https://github.com/premshivaaa/LeetCode/tree/master/1328-break-a-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [1328-break-a-palindrome](https://github.com/premshivaaa/LeetCode/tree/master/1328-break-a-palindrome) |
 <!---LeetCode Topics End-->
