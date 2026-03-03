@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/premshivaaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/premshivaaa/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/premshivaaa/LeetCode/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
