@@ -4,17 +4,15 @@ public:
         int m = grid.size();
         int n = grid[0].size();
         queue<pair<pair<int, int> , int>> q;
-        int vis[m][n];
+        //int vis[m][n];
         int fresh = 0;
         int cnt = 0;
 
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
                 if(grid[i][j] == 2){
-                    vis[i][j] = 2;
+                   //vis[i][j] = 2;
                     q.push({{i, j}, 0});
-                } else {
-                    vis[i][j] = 0;
                 }
                 if(grid[i][j] == 1){
                     fresh++;
@@ -37,9 +35,9 @@ public:
                 int nrow = row + delrow[i];
                 int ncol = col + delcol[i];
 
-                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && vis[nrow][ncol] != 2 && grid[nrow][ncol] == 1){
+                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol] == 1){
                     q.push({{nrow, ncol}, tm + 1});
-                    vis[nrow][ncol] = 2;
+                    grid[nrow][ncol] = 2;
                     cnt++;
                 }
             }
