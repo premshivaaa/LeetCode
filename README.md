@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/premshivaaa/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0994-rotting-oranges](https://github.com/premshivaaa/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/premshivaaa/LeetCode/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/premshivaaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/premshivaaa/LeetCode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/premshivaaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/premshivaaa/LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
