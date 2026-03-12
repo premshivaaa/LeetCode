@@ -1,6 +1,6 @@
 class Solution {
-    int delrow[4] = {-1, 0, 1, 0};
-    int delcol[4] = {0, -1, 0, 1};
+    const int delrow[4] = {-1, 0, 1, 0};
+    const int delcol[4] = {0, -1, 0, 1};
     int m, n;
 
 private:
