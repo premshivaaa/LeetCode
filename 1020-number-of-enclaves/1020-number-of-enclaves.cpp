@@ -24,20 +24,16 @@ public:
         vector<vector<int>> vis(m, vector<int>(n, 0));
 
         for(int j=0; j<n; j++){
-            if(!vis[0][j] && grid[0][j]){
-                dfs(0, j, vis, grid);
-            }
-            if(!vis[m-1][j] && grid[m-1][j]){
-                dfs(m-1, j, vis, grid);
-            }
+            if(!vis[0][j] && grid[0][j]) dfs(0, j, vis, grid);
+                
+            if(!vis[m-1][j] && grid[m-1][j]) dfs(m-1, j, vis, grid);
+                
         }
         for(int i=0; i<m; i++){
-            if(!vis[i][0] && grid[i][0]){
-                dfs(i, 0, vis, grid);
-            }
-            if(!vis[i][n-1] && grid[i][n-1]){
-                dfs(i, n-1, vis, grid);
-            }
+            if(!vis[i][0] && grid[i][0]) dfs(i, 0, vis, grid);
+                
+            if(!vis[i][n-1] && grid[i][n-1]) dfs(i, n-1, vis, grid);
+                
         }
 
         int lands = 0;
