@@ -7,12 +7,13 @@ public:
 
         for(auto it : prerequisites){
             adj[it[0]].push_back(it[1]);
+            indegree[it[1]]++;
         }
-        for(int i=0; i<numCourses; i++){
-            for(auto it : adj[i]){
-                indegree[it]++;
-            }
-        }
+        // for(int i=0; i<numCourses; i++){
+        //     for(auto it : adj[i]){
+        //         indegree[it]++;
+        //     }
+        // }
         queue<int> q;
         for(int i=0; i<numCourses; i++){
             if(indegree[i] == 0) q.push(i);
