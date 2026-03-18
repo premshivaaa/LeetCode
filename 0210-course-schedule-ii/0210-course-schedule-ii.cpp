@@ -6,7 +6,7 @@ public:
         vector<int> topo;
         queue<int> q;
 
-        for(auto it : prerequisites){
+        for(auto &it : prerequisites){
             adj[it[1]].push_back(it[0]);
             indegree[it[0]]++;
         }
