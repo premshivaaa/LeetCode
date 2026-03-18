@@ -1,35 +1,35 @@
 class Solution {
-
-private:
-    bool dfs(int node, vector<vector<int>>& adj, vector<int>& vis){
-        vis[node] = 2;
-
-        for(auto it : adj[node]){
-            if(!vis[it]){
-                if(dfs(it, adj, vis) == false) return false;
-            } else if (vis[it] == 2){
-                return false;
-            }
-        }
-        vis[node] = 1;
-        return true;
-    }
-
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-        vector<int> vis(numCourses, 0);
+        vector<int> indegree(numCourses, 0);
+        int count = 0;
 
         for(auto it : prerequisites){
             adj[it[0]].push_back(it[1]);
         }
-
         for(int i=0; i<numCourses; i++){
-            if(!vis[i]){
-                if(dfs(i, adj, vis) == false) return false;
+            for(auto it : adj[i]){
+                indegree[it]++;
             }
         }
+        queue<int> q;
+        for(int i=0; i<numCourses; i++){
+            if(indegree[i] == 0) q.push(i);
+        }
 
-        return true;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            count++;
+
+            for(auto it : adj[node]){
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
+            }
+        }
+        if(numCourses == count) return true;
+
+        return false;
     }
 };
