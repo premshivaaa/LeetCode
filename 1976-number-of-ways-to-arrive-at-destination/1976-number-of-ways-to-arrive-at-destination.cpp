@@ -24,7 +24,7 @@ public:
             auto [dist, node] = pq.top();
             pq.pop();
 
-            if(dist != distances[node]) continue;
+            if(dist > distances[node]) continue;
 
             for(auto [adjNode, edgeTime] : adj[node]){
                 long long newDist = dist + edgeTime;
