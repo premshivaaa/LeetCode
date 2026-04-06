@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/premshivaaa/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/premshivaaa/LeetCode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/premshivaaa/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/premshivaaa/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/premshivaaa/LeetCode/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
 ## Heap (Priority Queue)
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/premshivaaa/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/premshivaaa/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/premshivaaa/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/premshivaaa/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/premshivaaa/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/premshivaaa/LeetCode/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [1328-break-a-palindrome](https://github.com/premshivaaa/LeetCode/tree/master/1328-break-a-palindrome) |
 ## Backtracking
 |  |
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/premshivaaa/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/premshivaaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/premshivaaa/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/premshivaaa/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premshivaaa/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -188,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/premshivaaa/LeetCode/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 ## Shortest Path
 |  |
 | ------- |
