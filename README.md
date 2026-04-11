@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/premshivaaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/premshivaaa/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/premshivaaa/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/premshivaaa/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/premshivaaa/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/premshivaaa/LeetCode/tree/master/0685-redundant-connection-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/premshivaaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/premshivaaa/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/premshivaaa/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/premshivaaa/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/premshivaaa/LeetCode/tree/master/0684-redundant-connection) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/premshivaaa/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/premshivaaa/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/premshivaaa/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/premshivaaa/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/premshivaaa/LeetCode/tree/master/0685-redundant-connection-ii) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/premshivaaa/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/premshivaaa/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/premshivaaa/LeetCode/tree/master/0310-minimum-height-trees) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/premshivaaa/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
