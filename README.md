@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/premshivaaa/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/premshivaaa/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/premshivaaa/LeetCode/tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/premshivaaa/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/premshivaaa/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/premshivaaa/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/premshivaaa/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/premshivaaa/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/premshivaaa/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/premshivaaa/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/premshivaaa/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/premshivaaa/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/premshivaaa/LeetCode/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/premshivaaa/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/premshivaaa/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/premshivaaa/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/premshivaaa/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/premshivaaa/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/premshivaaa/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
