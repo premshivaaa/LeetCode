@@ -1,26 +1,63 @@
-class Solution {
-private:
-    bool dfs(int node, int destination, vector<vector<int>>& adj, vector<int>& vis){
-        vis[node] = 1;
-        if(node == destination) return true;
-
-        for(auto it : adj[node]){
-            if(!vis[it]){
-                if(dfs(it, destination, adj, vis)) return true;
-            }
-        }
-        return false;
+class DisjointSet{
+    public:
+    vector<int> rank, parent, size;
+    DisjointSet(int n){
+        rank.resize(n+1, 0);
+        parent.resize(n+1);
+        size.resize(n+1, 1);
+        for(int i=0; i<=n; i++) parent[i] = i;
     }
+    int findUParent(int node){
+        if(parent[node] == node) return node;
+        return parent[node] = findUParent(parent[node]);
+    }
+    void unionByRank(int u, int v){
+        int ult_u = findUParent(u);
+        int ult_v = findUParent(v);
+        if(ult_u == ult_v) return;
+        
+        if(rank[ult_u] < rank[ult_v]){
+            parent[ult_u] = ult_v;
+        }
+        else if(rank[ult_v] < rank[ult_u]){
+            parent[ult_v] = ult_u;
+        }
+        else{
+            parent[ult_v] = ult_u;
+            rank[ult_u]++;
+        }
+    }
+    void unionBySize(int u, int v){
+        int ult_u = findUParent(u);
+        int ult_v = findUParent(v);
+        if(ult_u == ult_v) return;
+        
+        if(size[ult_u] < size[ult_v]){
+            parent[ult_u] = ult_v;
+            size[ult_v] += size[ult_u];
+        }
+        else{
+            parent[ult_v] = ult_u;
+            size[ult_u] += size[ult_v];
+        }
+    }
+};
 
+class Solution {
 public:
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<vector<int>> adj(n);
+        DisjointSet ds(n);
         for(auto it : edges){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+            int u = it[0];
+            int v = it[1];
+            
+            if(ds.findUParent(u) != ds.findUParent(v)){
+                ds.unionBySize(u, v);
+            }
         }
-        vector<int> vis(n, 0);
 
-        return dfs(source, destination, adj, vis);
+        if(ds.findUParent(source) == ds.findUParent(destination)) return true;
+
+        return false;
     }
 };
