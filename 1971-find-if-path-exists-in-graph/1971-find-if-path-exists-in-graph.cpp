@@ -51,9 +51,7 @@ public:
             int u = it[0];
             int v = it[1];
             
-            if(ds.findUParent(u) != ds.findUParent(v)){
-                ds.unionBySize(u, v);
-            }
+            ds.unionBySize(u, v);
         }
 
         if(ds.findUParent(source) == ds.findUParent(destination)) return true;
