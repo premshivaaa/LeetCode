@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/premshivaaa/LeetCode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/premshivaaa/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/premshivaaa/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/premshivaaa/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/premshivaaa/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/premshivaaa/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/premshivaaa/LeetCode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/premshivaaa/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/premshivaaa/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/premshivaaa/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premshivaaa/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/premshivaaa/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/premshivaaa/LeetCode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/premshivaaa/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/premshivaaa/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Shortest Path
 |  |
 | ------- |
