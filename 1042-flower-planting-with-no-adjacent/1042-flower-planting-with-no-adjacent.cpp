@@ -11,7 +11,7 @@ public:
         vector<int> ans(n + 1, 0);
 
         for (int i = 1; i <= n; i++) {
-            vector<bool> used(5, false);
+            bool used[5] = {false};
 
             for (auto it : adj[i]) {
                 used[ans[it]] = true;
