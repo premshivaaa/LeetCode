@@ -1,28 +1,46 @@
 class Solution {
 public:
-    vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
+    vector<bool> checkIfPrerequisite(int n, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
         
-        vector<vector<bool>> reach(numCourses, vector<bool>(numCourses, false));
-
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n, 0);
+        
+        // Build graph
         for (auto &it : prerequisites) {
-            reach[it[0]][it[1]] = true;
+            adj[it[0]].push_back(it[1]);
+            indegree[it[1]]++;
         }
 
-        // Step 3: Floyd–Warshall to compute transitive closure
-        for (int k = 0; k < numCourses; k++) {
-            for (int i = 0; i < numCourses; i++) {
-                for (int j = 0; j < numCourses; j++) {
-                    if (reach[i][k] && reach[k][j]) {
-                        reach[i][j] = true;
-                    }
+        // Store prerequisites using bitset (faster than set)
+        vector<bitset<101>> pre(n);
+
+        // Topological sort (Kahn's Algorithm)
+        queue<int> q;
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) q.push(i);
+        }
+
+        while (!q.empty()) {
+            int u = q.front(); 
+            q.pop();
+
+            for (auto v : adj[u]) {
+                // u is prerequisite of v
+                pre[v][u] = 1;
+
+                // inherit all prerequisites of u
+                pre[v] |= pre[u];
+
+                if (--indegree[v] == 0) {
+                    q.push(v);
                 }
             }
         }
 
-        // Step 4: Answer queries
+        // Answer queries
         vector<bool> ans;
-        for (auto &it : queries) {
-            ans.push_back(reach[it[0]][it[1]]);
+        for (auto &q : queries) {
+            ans.push_back(pre[q[1]][q[0]]);
         }
 
         return ans;
