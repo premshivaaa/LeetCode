@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/premshivaaa/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/premshivaaa/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/premshivaaa/LeetCode/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Union-Find
 |  |
 | ------- |
