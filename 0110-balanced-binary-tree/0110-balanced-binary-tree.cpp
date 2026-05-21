@@ -10,29 +10,26 @@
  * };
  */
 class Solution {
-public:
+private:
+    int traverse(TreeNode* root){
+        if(root == NULL) return 0;
 
-    int dfs(TreeNode* node){
-        if(node == NULL) return 0;
+        int left = traverse(root->left);
+        int right = traverse(root->right);
 
-        int left = dfs(node->left);
         if(left == -1) return -1;
-
-        int right = dfs(node->right);
         if(right == -1) return -1;
-
         if(abs(left-right) > 1) return -1;
 
         return 1 + max(left,right);
     }
 
+public:
     bool isBalanced(TreeNode* root) {
         if(root == NULL) return true;
 
-        if(dfs(root) == -1){
-            return false;
-        } else {
-            return true;
-        }
+        if(traverse(root) == -1) return false;
+
+        return true;
     }
 };
