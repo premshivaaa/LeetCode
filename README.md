@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/premshivaaa/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/premshivaaa/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/premshivaaa/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/premshivaaa/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/premshivaaa/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/premshivaaa/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/premshivaaa/LeetCode/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/premshivaaa/LeetCode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/premshivaaa/LeetCode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
