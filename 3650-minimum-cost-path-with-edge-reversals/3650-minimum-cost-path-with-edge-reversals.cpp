@@ -2,35 +2,40 @@ class Solution {
 public:
     int minCost(int n, vector<vector<int>>& edges) {
         vector<vector<pair<int, int>>> adj(n);
-        for(auto edge : edges){
-            adj[edge[0]].push_back({edge[1], edge[2]});
-            adj[edge[1]].push_back({edge[0], edge[2]*2});
+
+        for (auto &e : edges) {
+            int u = e[0];
+            int v = e[1];
+            int w = e[2];
+
+            adj[u].push_back({v, w});
+            adj[v].push_back({u, w * 2});
         }
-        vector<int> dist(n, INT_MAX);
+
+        vector<long long> dist(n, LLONG_MAX);
+        priority_queue<
+            pair<long long, int>,
+            vector<pair<long long, int>>,
+            greater<pair<long long, int>>
+        > pq;
+
         dist[0] = 0;
-        priority_queue< pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>> > pq;
         pq.push({0, 0});
 
-        while(!pq.empty()){
-            int weight = pq.top().first;
-            int node = pq.top().second;
+        while (!pq.empty()) {
+            auto [d, node] = pq.top();
             pq.pop();
 
-            if(weight > dist[node]) continue;
+            if (d > dist[node]) continue;
 
-            for(auto it : adj[node]){
-                int adjNode = it.first;
-                int adjWeight = it.second;
-
-                if(dist[node] + adjWeight < dist[adjNode]){
-                    dist[adjNode] = dist[node] + adjWeight;
+            for (auto &[adjNode, wt] : adj[node]) {
+                if (d + wt < dist[adjNode]) {
+                    dist[adjNode] = d + wt;
                     pq.push({dist[adjNode], adjNode});
                 }
             }
         }
 
-        if(dist[n-1] == INT_MAX) return -1;
-
-        return dist[n-1];
+        return dist[n - 1] == LLONG_MAX ? -1 : dist[n - 1];
     }
 };
