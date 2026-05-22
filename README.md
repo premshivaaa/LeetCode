@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/premshivaaa/LeetCode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/premshivaaa/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/premshivaaa/LeetCode/tree/master/0886-possible-bipartition) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/premshivaaa/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/premshivaaa/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/premshivaaa/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
