@@ -7,6 +7,12 @@ public:
             adj[i].push_back(i + 1);
         }
 
+        vector<int> dist(n);
+
+        for(int i = 0; i < n; i++) {
+            dist[i] = i;
+        }
+
         vector<int> ans;
 
         for(auto &q : queries) {
@@ -15,11 +21,12 @@ public:
 
             adj[u].push_back(v);
 
-            vector<int> dist(n, 1e9);
-            dist[0] = 0;
-
             queue<int> bfs;
-            bfs.push(0);
+
+            if(dist[u] + 1 < dist[v]) {
+                dist[v] = dist[u] + 1;
+                bfs.push(v);
+            }
 
             while(!bfs.empty()) {
                 int node = bfs.front();
