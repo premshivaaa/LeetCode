@@ -10,19 +10,22 @@
  * };
  */
 class Solution {
-public:
+private:
+    bool traverse(TreeNode* root, TreeNode*& prev){
+        if(root == NULL) return true;
 
-    bool validate(TreeNode* node, long min, long max){
-        if(node == NULL) return true;
+        bool left = traverse(root->left, prev);
 
-        if(node->val <= min || node->val >= max){
-            return false;
-        }
+        if(prev != NULL && prev->val >= root->val) return false;
+        prev = root;
+        
+        bool right = traverse(root->right, prev);
 
-        return validate(node->left, min, node->val) && validate(node->right, node->val, max);
+        return left && right;
     }
-
+public:
     bool isValidBST(TreeNode* root) {
-        return validate(root, LONG_MIN, LONG_MAX);
+        TreeNode* prev = NULL;
+        return traverse(root, prev);
     }
 };
