@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/premshivaaa/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/premshivaaa/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/premshivaaa/LeetCode/tree/master/0743-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/premshivaaa/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/premshivaaa/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/premshivaaa/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/premshivaaa/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/premshivaaa/LeetCode/tree/master/0743-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/premshivaaa/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/premshivaaa/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/premshivaaa/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premshivaaa/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
