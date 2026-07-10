@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/premshivaaa/LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/premshivaaa/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/premshivaaa/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/premshivaaa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/premshivaaa/LeetCode/tree/master/0991-broken-calculator) |
 ## Binary Search Tree
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/premshivaaa/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/premshivaaa/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
 ## Union-Find
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/premshivaaa/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/premshivaaa/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/premshivaaa/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
