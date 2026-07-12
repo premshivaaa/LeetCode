@@ -1,19 +1,21 @@
 class Solution {
-    set<vector<int>> st;
+    vector<vector<int>> ans;
+    vector<int> curr;
     int n;
 private:
-    void recursion(int idx, vector<int>& nums, vector<int>& curr){
+    void recursion(int idx, vector<int>& nums){
         if(idx >= n){
-            if(st.find(curr) == st.end()){
-                st.insert(curr);
-            }
+            ans.push_back(curr);
             return;
         }
 
         curr.push_back(nums[idx]);
-        recursion(idx+1, nums, curr);
+        recursion(idx+1, nums);
         curr.pop_back();
-        recursion(idx+1, nums, curr);
+
+        while(idx+1 < n && nums[idx] == nums[idx+1]) idx++;
+
+        recursion(idx+1, nums);
 
         return;
     }
@@ -21,13 +23,8 @@ public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         n = nums.size();
-        vector<int> curr;
-        recursion(0, nums, curr);
 
-        vector<vector<int>> ans;
-        for(auto it : st){
-            ans.push_back(it);
-        }
+        recursion(0, nums);
 
         return ans;
     }
