@@ -13,7 +13,7 @@ private:
         recursion(idx+1, nums);
         curr.pop_back();
 
-        while(idx+1 < n && nums[idx] == nums[idx+1]) idx++;
+        while(idx+1 < n && nums[idx] == nums[idx+1]) idx++; // index++ for skipping the repetition
 
         recursion(idx+1, nums);
 
