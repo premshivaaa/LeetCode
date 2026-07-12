@@ -1,26 +1,23 @@
 class Solution {
-
-public:
-
-    void backtrack(vector<int>& nums, int i, vector<vector<int>>& ans, vector<int>& curr){
-
-        if(i == nums.size()){
+    vector<vector<int>> ans;
+    int n;
+private:
+    void recursion(int idx, vector<int>& nums, vector<int>& curr){
+        if(idx >= n){
             ans.push_back(curr);
             return;
         }
 
-        curr.push_back(nums[i]);
-        backtrack(nums, i+1, ans, curr);
-
+        curr.push_back(nums[idx]); // include
+        recursion(idx+1, nums, curr);
         curr.pop_back();
-        backtrack(nums, i+1, ans, curr);
+        recursion(idx+1, nums, curr); // exclude
     }
-
+public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
+        n = nums.size();
         vector<int> curr;
-
-        backtrack(nums, 0, ans, curr);
+        recursion(0, nums, curr);
 
         return ans;
     }
