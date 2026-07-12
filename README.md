@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1514-path-with-maximum-probability](https://github.com/premshivaaa/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/premshivaaa/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/premshivaaa/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/premshivaaa/LeetCode/tree/master/3493-properties-graph) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/premshivaaa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/premshivaaa/LeetCode/tree/master/0991-broken-calculator) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/premshivaaa/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/premshivaaa/LeetCode/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/premshivaaa/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/premshivaaa/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Union-Find
 |  |
 | ------- |
@@ -404,4 +408,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/premshivaaa/LeetCode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
