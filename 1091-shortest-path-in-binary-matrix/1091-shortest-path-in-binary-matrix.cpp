@@ -1,45 +1,39 @@
 class Solution {
+    
 public:
-    int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
+    int shortestPathBinaryMatrix(vector<vector<int>>& grid) {     
         int n = grid.size();
-        
-        if(grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
+        int m = grid[0].size();
 
-        queue<pair<int,int>> q;
-        q.push({0, 0});
-        
-        // mark visited
-        grid[0][0] = 1;
+        if(grid[0][0] == 1) return -1;
+        if(grid[n-1][m-1] == 1) return -1;
 
-        int delrow[8] = {-1,-1,-1,0,0,1,1,1};
-        int delcol[8] = {-1,0,1,-1,1,-1,0,1};
+        int delrow[8] = {-1, 0, 1, 0, -1, 1, -1, 1};
+        int delcol[8]= {0, -1, 0, 1, -1, 1, 1, -1};
 
-        int steps = 1;
+        vector<vector<int>> vis(n, vector<int>(m, 0));
+        vis[0][0] = 1;
+
+        priority_queue<pair<int, pair<int,int>>, vector<pair<int, pair<int,int>>>, greater<pair<int, pair<int,int>>>> q;
+        q.push({1, {0,0}});
 
         while(!q.empty()){
-            int size = q.size();
-            
-            while(size--){
-                int row = q.front().first;
-                int col = q.front().second;
-                q.pop();
+            int row = q.top().second.first;
+            int col = q.top().second.second;
+            int dis = q.top().first;
+            q.pop();
 
-                // Early exit
-                if(row == n-1 && col == n-1) return steps;
+            if(row == n-1 && col == m-1) return dis;
 
-                for(int i=0; i<8; i++){
-                    int nrow = row + delrow[i];
-                    int ncol = col + delcol[i];
+            for(int i=0; i<8; i++){
+                int nrow = row + delrow[i];
+                int ncol = col + delcol[i];
 
-                    if(nrow>=0 && nrow<n && ncol>=0 && ncol<n 
-                       && grid[nrow][ncol] == 0){
-                        
-                        q.push({nrow, ncol});
-                        grid[nrow][ncol] = 1; // mark visited
-                    }
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && !grid[nrow][ncol] && !vis[nrow][ncol]){
+                    vis[nrow][ncol] = 1;
+                    q.push({dis+1, {nrow, ncol}});
                 }
             }
-            steps++;
         }
 
         return -1;
