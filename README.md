@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premshivaaa/LeetCode/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/premshivaaa/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/premshivaaa/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/premshivaaa/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/premshivaaa/LeetCode/tree/master/0090-subsets-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/premshivaaa/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/premshivaaa/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/premshivaaa/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/premshivaaa/LeetCode/tree/master/0090-subsets-ii) |
