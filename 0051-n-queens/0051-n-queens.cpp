@@ -9,14 +9,13 @@ private:
         for(int row=0; row<n; row++){
             if(!sameRow[row] && !leftUD[(n-1)+(col-row)] && !leftLD[row+col]){
 
-                sameRow[row] = 1, leftUD[(n-1)+(col-row)] = 1, leftLD[row+col] = 1;
+                sameRow[row] = leftUD[(n-1)+(col-row)] = leftLD[row+col] = 1;
 
                 board[row][col] = 'Q';
                 placeQueens(col+1, n, board, result, sameRow, leftUD, leftLD);
 
                 board[row][col] = '.';
-                sameRow[row] = 0, leftUD[(n-1)+(col-row)] = 0, leftLD[row+col] = 0;
-                //placeQueens(col, n, board, result, sameRow, leftUD, leftLD);
+                sameRow[row] = leftUD[(n-1)+(col-row)] = leftLD[row+col] = 0;
             }
         }
     }
