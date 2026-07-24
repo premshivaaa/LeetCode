@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premshivaaa/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/premshivaaa/LeetCode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/premshivaaa/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/premshivaaa/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/premshivaaa/LeetCode/tree/master/0078-subsets) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/premshivaaa/LeetCode/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/premshivaaa/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/premshivaaa/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premshivaaa/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/premshivaaa/LeetCode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/premshivaaa/LeetCode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/premshivaaa/LeetCode/tree/master/0771-jewels-and-stones) |
