@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/premshivaaa/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premshivaaa/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/premshivaaa/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/premshivaaa/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/premshivaaa/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/premshivaaa/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premshivaaa/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/premshivaaa/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/premshivaaa/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/premshivaaa/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/premshivaaa/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/premshivaaa/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/premshivaaa/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/premshivaaa/LeetCode/tree/master/1462-course-schedule-iv) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/premshivaaa/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/premshivaaa/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/premshivaaa/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/premshivaaa/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
