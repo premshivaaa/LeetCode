@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/premshivaaa/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/premshivaaa/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1020-number-of-enclaves](https://github.com/premshivaaa/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/premshivaaa/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/premshivaaa/LeetCode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1192-critical-connections-in-a-network](https://github.com/premshivaaa/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/premshivaaa/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/premshivaaa/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/premshivaaa/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/premshivaaa/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/premshivaaa/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
