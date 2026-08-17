@@ -1,35 +1,37 @@
 class Solution {
-    void inorder(TreeNode* root, vector<int>& arr) {
-        if (!root) return;
-
-        inorder(root->left, arr);
-        arr.push_back(root->val);
-        inorder(root->right, arr);
-    }
-
 public:
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int> a, b;
 
-        inorder(root1, a);
-        inorder(root2, b);
-
+        stack<TreeNode*> s1, s2;
         vector<int> ans;
 
-        int i = 0, j = 0;
+        while (root1 || root2 || !s1.empty() || !s2.empty()) {
 
-        while (i < a.size() && j < b.size()) {
-            if (a[i] <= b[j])
-                ans.push_back(a[i++]);
-            else
-                ans.push_back(b[j++]);
+            while (root1) {
+                s1.push(root1);
+                root1 = root1->left;
+            }
+
+            while (root2) {
+                s2.push(root2);
+                root2 = root2->left;
+            }
+
+            if (s2.empty() || (!s1.empty() && s1.top()->val <= s2.top()->val)) {
+                TreeNode* node = s1.top();
+                s1.pop();
+
+                ans.push_back(node->val);
+                root1 = node->right;
+            }
+            else {
+                TreeNode* node = s2.top();
+                s2.pop();
+
+                ans.push_back(node->val);
+                root2 = node->right;
+            }
         }
-
-        while (i < a.size())
-            ans.push_back(a[i++]);
-
-        while (j < b.size())
-            ans.push_back(b[j++]);
 
         return ans;
     }
