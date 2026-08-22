@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/premshivaaa/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/premshivaaa/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1514-path-with-maximum-probability](https://github.com/premshivaaa/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/premshivaaa/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/premshivaaa/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/premshivaaa/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
