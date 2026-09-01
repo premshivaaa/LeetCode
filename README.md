@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premshivaaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/premshivaaa/LeetCode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/premshivaaa/LeetCode/tree/master/0344-reverse-string) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premshivaaa/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premshivaaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/premshivaaa/LeetCode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/premshivaaa/LeetCode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/premshivaaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/premshivaaa/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
