@@ -6,10 +6,10 @@ public:
         while(right < nums.size()){
             if(nums[right] == 0) zeros++;
             if(zeros > k){
-                while(zeros > k){
+                // while(zeros > k){
                     if(nums[left] == 0) zeros--;
                     left++;
-                }
+                // }
             }
             int len = right - left + 1;
             maxlen = max(len, maxlen);
