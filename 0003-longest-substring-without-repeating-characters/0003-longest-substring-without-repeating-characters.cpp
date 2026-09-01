@@ -1,22 +1,15 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int maxlen = 0, left = 0, right = 0;
-        vector<int> hash(256, -1);
+        vector<int> last(256, -1);
+        int left = 0, ans = 0;
 
-        while(right < s.size()){
-            if(hash[s[right]] != -1){ // duplicate element found senario
-                if(left <= hash[s[right]]){
-                    left = hash[s[right]] + 1;
-                }
-            }
-
-            int len = right - left + 1;
-            maxlen = max(maxlen, len);
-
-            hash[s[right]] = right; // normal case (updation)
-            right++;
+        for (int right = 0; right < s.size(); right++) {
+            left = max(left, last[s[right]] + 1);
+            last[s[right]] = right;
+            ans = max(ans, right - left + 1);
         }
-        return maxlen;
+
+        return ans;
     }
 };
