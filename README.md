@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/premshivaaa/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/premshivaaa/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/premshivaaa/LeetCode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/premshivaaa/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
