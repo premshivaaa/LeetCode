@@ -5,8 +5,8 @@ public:
 
         while(right < nums.size()){
             if(nums[right] == 0) left = right + 1;
-            int len = right - left + 1;
-            maxlen = max(len, maxlen);
+
+            maxlen = max(right - left + 1, maxlen);
             right++;
         }
         return maxlen;
