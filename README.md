@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/premshivaaa/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premshivaaa/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1328-break-a-palindrome](https://github.com/premshivaaa/LeetCode/tree/master/1328-break-a-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/premshivaaa/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/premshivaaa/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3493-properties-graph](https://github.com/premshivaaa/LeetCode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premshivaaa/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/premshivaaa/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/premshivaaa/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/premshivaaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
