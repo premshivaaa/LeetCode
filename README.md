@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/premshivaaa/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/premshivaaa/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/premshivaaa/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1514-path-with-maximum-probability](https://github.com/premshivaaa/LeetCode/tree/master/1514-path-with-maximum-probability) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/premshivaaa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/premshivaaa/LeetCode/tree/master/0991-broken-calculator) |
+| [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search Tree
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/premshivaaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/premshivaaa/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/premshivaaa/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3493-properties-graph](https://github.com/premshivaaa/LeetCode/tree/master/3493-properties-graph) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/premshivaaa/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/premshivaaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/premshivaaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
@@ -512,5 +516,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/premshivaaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/premshivaaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
