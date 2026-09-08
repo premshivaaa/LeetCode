@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/premshivaaa/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/premshivaaa/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/premshivaaa/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Backtracking
 |  |
 | ------- |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/premshivaaa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/premshivaaa/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/premshivaaa/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/premshivaaa/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Queue
 |  |
 | ------- |
