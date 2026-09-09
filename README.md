@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/premshivaaa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3206-alternating-groups-i](https://github.com/premshivaaa/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/premshivaaa/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/premshivaaa/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/premshivaaa/LeetCode/tree/master/3493-properties-graph) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/premshivaaa/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/premshivaaa/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3206-alternating-groups-i](https://github.com/premshivaaa/LeetCode/tree/master/3206-alternating-groups-i) |
 ## Monotonic Queue
 |  |
 | ------- |
