@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/premshivaaa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/premshivaaa/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/premshivaaa/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/premshivaaa/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/premshivaaa/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/premshivaaa/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/premshivaaa/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/premshivaaa/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/premshivaaa/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/premshivaaa/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/premshivaaa/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Monotonic Queue
