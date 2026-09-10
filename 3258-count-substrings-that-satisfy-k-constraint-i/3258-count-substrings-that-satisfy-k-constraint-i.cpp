@@ -19,7 +19,7 @@ public:
                 left++;
             }
 
-            ans += (right - left + 1);
+            ans += right - left + 1;
         }
 
         return ans;
