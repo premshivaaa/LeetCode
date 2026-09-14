@@ -11,7 +11,7 @@ public:
                 down = up + 1;
                 up = 1;
             } else {
-                up = down = 1;
+                up = down = 1; // reset (new substr) - if both the conditions do not satisfy.
             }
             ans = max(ans, max(up, down));
         }
