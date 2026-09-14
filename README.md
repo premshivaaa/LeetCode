@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/premshivaaa/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premshivaaa/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1328-break-a-palindrome](https://github.com/premshivaaa/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/premshivaaa/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/premshivaaa/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/premshivaaa/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/premshivaaa/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/premshivaaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/premshivaaa/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/premshivaaa/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/premshivaaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/premshivaaa/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
