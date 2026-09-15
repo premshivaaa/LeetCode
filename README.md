@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/premshivaaa/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premshivaaa/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/premshivaaa/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1328-break-a-palindrome](https://github.com/premshivaaa/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/premshivaaa/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/premshivaaa/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/premshivaaa/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/premshivaaa/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/premshivaaa/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/premshivaaa/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
