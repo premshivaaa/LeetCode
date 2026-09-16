@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/premshivaaa/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/premshivaaa/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/premshivaaa/LeetCode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1328-break-a-palindrome](https://github.com/premshivaaa/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/premshivaaa/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/premshivaaa/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/premshivaaa/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/premshivaaa/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/premshivaaa/LeetCode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
