@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/premshivaaa/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/premshivaaa/LeetCode/tree/master/3206-alternating-groups-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/premshivaaa/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/premshivaaa/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/premshivaaa/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/premshivaaa/LeetCode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/premshivaaa/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/premshivaaa/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/premshivaaa/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/premshivaaa/LeetCode/tree/master/3206-alternating-groups-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/premshivaaa/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/premshivaaa/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Monotonic Queue
 |  |
