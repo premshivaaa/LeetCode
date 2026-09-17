@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/premshivaaa/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/premshivaaa/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/premshivaaa/LeetCode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/premshivaaa/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0053-maximum-subarray) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/premshivaaa/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premshivaaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/premshivaaa/LeetCode/tree/master/0344-reverse-string) |
