@@ -7,7 +7,7 @@ private:
             idx = mid;
             return;
         }
-        if(nums[left] <= nums[mid]){ // only moving towards sorted array here
+        if(nums[left] <= nums[mid]){ // only moving towards sorted array here - classic bs
             if(nums[left] <= target && target < nums[mid]) solve(nums, target, idx, left, mid-1);
             else solve(nums, target, idx, mid+1, right);
         }
