@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/premshivaaa/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/premshivaaa/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/premshivaaa/LeetCode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/premshivaaa/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0053-maximum-subarray) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premshivaaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/premshivaaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
