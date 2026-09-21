@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/premshivaaa/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/premshivaaa/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/premshivaaa/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/premshivaaa/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/premshivaaa/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/premshivaaa/LeetCode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premshivaaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/premshivaaa/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -626,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/premshivaaa/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
