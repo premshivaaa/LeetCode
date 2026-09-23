@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/premshivaaa/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/premshivaaa/LeetCode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/premshivaaa/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/premshivaaa/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/premshivaaa/LeetCode/tree/master/0090-subsets-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/premshivaaa/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/premshivaaa/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/premshivaaa/LeetCode/tree/master/0268-missing-number) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/premshivaaa/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/premshivaaa/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premshivaaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/premshivaaa/LeetCode/tree/master/0344-reverse-string) |
@@ -645,4 +648,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/premshivaaa/LeetCode/tree/master/0278-first-bad-version) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/premshivaaa/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/premshivaaa/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
