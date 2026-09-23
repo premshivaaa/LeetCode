@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/premshivaaa/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/premshivaaa/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/premshivaaa/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/premshivaaa/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/premshivaaa/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/premshivaaa/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/premshivaaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/premshivaaa/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/premshivaaa/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/premshivaaa/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/premshivaaa/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/premshivaaa/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/premshivaaa/LeetCode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/premshivaaa/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -656,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/premshivaaa/LeetCode/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/premshivaaa/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
