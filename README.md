@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/premshivaaa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/premshivaaa/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/premshivaaa/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/premshivaaa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/premshivaaa/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/premshivaaa/LeetCode/tree/master/0198-house-robber) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/premshivaaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/premshivaaa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/premshivaaa/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/premshivaaa/LeetCode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/premshivaaa/LeetCode/tree/master/0344-reverse-string) |
@@ -669,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/premshivaaa/LeetCode/tree/master/0496-next-greater-element-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/premshivaaa/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
