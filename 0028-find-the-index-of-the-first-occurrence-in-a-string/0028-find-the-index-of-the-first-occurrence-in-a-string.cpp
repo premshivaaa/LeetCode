@@ -1,23 +1,23 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        int index = -1, left = 0, right = 0, need = 0, n = haystack.size();
-        while (right < haystack.size()) {
-            if (haystack[right] == needle[need]) {
-                while (right < n && need < needle.size() && haystack[right] == needle[need]) {
-                    right++;
-                    need++;
-                }
-            }
-            if (need == needle.size()) {
-                return left;
-                break;
-            } else
-                need = 0;
+        int n = haystack.size();
+        int m = needle.size();
 
-            right = left + 1;
-            left = right;
+        if (m == 0) return 0;
+
+        for (int i = 0; i <= n - m; i++) {
+            int j = 0;
+
+            while (j < m && haystack[i + j] == needle[j]) {
+                j++;
+            }
+
+            if (j == m) {
+                return i;
+            }
         }
+
         return -1;
     }
 };
