@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/premshivaaa/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/premshivaaa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/premshivaaa/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/premshivaaa/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/premshivaaa/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/premshivaaa/LeetCode/tree/master/0455-assign-cookies) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/premshivaaa/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/premshivaaa/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/premshivaaa/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/premshivaaa/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/premshivaaa/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/premshivaaa/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/premshivaaa/LeetCode/tree/master/0326-power-of-three) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/premshivaaa/LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/premshivaaa/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/premshivaaa/LeetCode/tree/master/0127-word-ladder) |
+| [0202-happy-number](https://github.com/premshivaaa/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/premshivaaa/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/premshivaaa/LeetCode/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/premshivaaa/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -706,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/premshivaaa/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/premshivaaa/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
