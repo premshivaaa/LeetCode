@@ -1,15 +1,17 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        int pointer = 0, index = 0;
-        while(index <= s.size()){
-            if(index == s.size() || s[index] == ' '){
-                reverse(s.begin() + pointer, s.begin() + index);
-                pointer = index + 1;
-            }
-            
-            index++;
+        int n = s.size();
+
+        for(int i = 0; i < n; i++) {
+            int start = i;
+
+            while(i < n && s[i] != ' ')
+                i++;
+
+            reverse(s.begin() + start, s.begin() + i);
         }
+
         return s;
     }
 };
