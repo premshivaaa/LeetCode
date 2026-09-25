@@ -13,7 +13,7 @@ public:
         }
 
         if (pivot == -1)
-            return -1;
+            return -1; // smallest number is the next one
 
         for (int i = s.size() - 1; i > pivot; i--) {
             if (s[i] > s[pivot]) {
