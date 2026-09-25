@@ -2,20 +2,25 @@ class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
 
-        unordered_map<int, int> freq;
+        sort(nums1.begin(), nums1.end());
+        sort(nums2.begin(), nums2.end());
+
         vector<int> ans;
 
-        // Store frequency of nums1
-        for(int num : nums1) {
-            freq[num]++;
-        }
+        int i = 0, j = 0;
 
-        // Check nums2
-        for(int num : nums2) {
+        while(i < nums1.size() && j < nums2.size()) {
 
-            if(freq[num] > 0) {
-                ans.push_back(num);
-                freq[num]--;
+            if(nums1[i] == nums2[j]) {
+                ans.push_back(nums1[i]);
+                i++;
+                j++;
+            }
+            else if(nums1[i] < nums2[j]) {
+                i++;
+            }
+            else {
+                j++;
             }
         }
 
