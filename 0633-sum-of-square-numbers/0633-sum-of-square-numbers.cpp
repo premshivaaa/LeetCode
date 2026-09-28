@@ -9,10 +9,10 @@ public:
 
             if (sum == c)
                 return true;
-            else if (sum > c)
-                right--;
-            else
+            else if (sum < c)
                 left++;
+            else
+                right--;
         }
 
         return false;
