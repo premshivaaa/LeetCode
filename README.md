@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/premshivaaa/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/premshivaaa/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/premshivaaa/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/premshivaaa/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/premshivaaa/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/premshivaaa/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/premshivaaa/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/premshivaaa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/premshivaaa/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0633-sum-of-square-numbers](https://github.com/premshivaaa/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0991-broken-calculator](https://github.com/premshivaaa/LeetCode/tree/master/0991-broken-calculator) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/premshivaaa/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/premshivaaa/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/premshivaaa/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/premshivaaa/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/premshivaaa/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/premshivaaa/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/premshivaaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
