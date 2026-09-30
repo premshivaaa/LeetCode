@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/premshivaaa/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/premshivaaa/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/premshivaaa/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/premshivaaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0978-longest-turbulent-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0978-longest-turbulent-subarray) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/premshivaaa/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/premshivaaa/LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/premshivaaa/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/premshivaaa/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/premshivaaa/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/premshivaaa/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/premshivaaa/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
 ## Greedy
 |  |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/premshivaaa/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/premshivaaa/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/premshivaaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/premshivaaa/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/premshivaaa/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/premshivaaa/LeetCode/tree/master/0912-sort-an-array) |
+| [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/premshivaaa/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Minimum Spanning Tree
 |  |
