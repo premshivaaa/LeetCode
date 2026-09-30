@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/premshivaaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
+| [0821-shortest-distance-to-a-character](https://github.com/premshivaaa/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0827-making-a-large-island](https://github.com/premshivaaa/LeetCode/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/premshivaaa/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/premshivaaa/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/premshivaaa/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/premshivaaa/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/premshivaaa/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/premshivaaa/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/premshivaaa/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/premshivaaa/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/premshivaaa/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/premshivaaa/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premshivaaa/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/premshivaaa/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
