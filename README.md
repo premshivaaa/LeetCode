@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/premshivaaa/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premshivaaa/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/premshivaaa/LeetCode/tree/master/0994-rotting-oranges) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/premshivaaa/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/premshivaaa/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/premshivaaa/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0977-squares-of-a-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
