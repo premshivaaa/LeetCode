@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/premshivaaa/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/premshivaaa/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/premshivaaa/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0838-push-dominoes](https://github.com/premshivaaa/LeetCode/tree/master/0838-push-dominoes) |
 | [0881-boats-to-save-people](https://github.com/premshivaaa/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/premshivaaa/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/premshivaaa/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/premshivaaa/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0838-push-dominoes](https://github.com/premshivaaa/LeetCode/tree/master/0838-push-dominoes) |
 | [0978-longest-turbulent-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/premshivaaa/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/premshivaaa/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/premshivaaa/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0838-push-dominoes](https://github.com/premshivaaa/LeetCode/tree/master/0838-push-dominoes) |
 | [0917-reverse-only-letters](https://github.com/premshivaaa/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0990-satisfiability-of-equality-equations](https://github.com/premshivaaa/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/premshivaaa/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
