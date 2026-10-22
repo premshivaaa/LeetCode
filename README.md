@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/premshivaaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/premshivaaa/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/premshivaaa/LeetCode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/premshivaaa/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/premshivaaa/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0827-making-a-large-island](https://github.com/premshivaaa/LeetCode/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/premshivaaa/LeetCode/tree/master/0860-lemonade-change) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/premshivaaa/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/premshivaaa/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/premshivaaa/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/premshivaaa/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/premshivaaa/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0838-push-dominoes](https://github.com/premshivaaa/LeetCode/tree/master/0838-push-dominoes) |
 | [0978-longest-turbulent-subarray](https://github.com/premshivaaa/LeetCode/tree/master/0978-longest-turbulent-subarray) |
