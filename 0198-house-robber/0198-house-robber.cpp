@@ -6,10 +6,10 @@ private:
 
         if(dp[index] != -1) return dp[index];
 
-        int left = nums[index] + solve(index+2, nums, dp);
-        int right = solve(index+1, nums, dp);
+        int pick = nums[index] + solve(index+2, nums, dp);
+        int not_pick = solve(index+1, nums, dp);
 
-        return dp[index] = max(left, right);
+        return dp[index] = max(pick, not_pick);
     }
 public:
     int rob(vector<int>& nums) {
