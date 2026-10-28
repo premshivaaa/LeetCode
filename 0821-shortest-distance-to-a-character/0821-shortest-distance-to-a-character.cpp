@@ -1,18 +1,19 @@
 class Solution {
 public:
     vector<int> shortestToChar(string s, char c) {
-        int n = s.size();
-        vector<int> ans(n, INT_MIN);
-        int prev = INT_MAX;
-
+        int n = s.size(), near = INT_MAX;
+        vector<int> ans(n, INT_MAX);
+        
         for(int i=0; i<n; i++){
-            if(s[i] == c) prev = i;
-            ans[i] = abs(prev - i);
+            if(s[i] == c){
+                near = i;
+            }
+            ans[i] = abs(near - i);
         }
-        int next = INT_MAX;
-        for(int j=n-1; j>=0; j--){
-            if(s[j] == c) next = j;
-            ans[j] = min(abs(next-j), ans[j]);
+        near = INT_MAX;
+        for(int i=n-1; i>=0; i--){
+            if(s[i] == c) near = i;
+            ans[i] = min(ans[i], abs(near - i));
         }
         return ans;
     }
