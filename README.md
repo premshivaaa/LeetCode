@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/premshivaaa/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/premshivaaa/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/premshivaaa/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1514-path-with-maximum-probability](https://github.com/premshivaaa/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/premshivaaa/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/premshivaaa/LeetCode/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/premshivaaa/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/premshivaaa/LeetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Heap (Priority Queue)
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/premshivaaa/LeetCode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/premshivaaa/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/premshivaaa/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1208-get-equal-substrings-within-budget](https://github.com/premshivaaa/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/premshivaaa/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1382-balance-a-binary-search-tree](https://github.com/premshivaaa/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/premshivaaa/LeetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/premshivaaa/LeetCode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/premshivaaa/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/premshivaaa/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/premshivaaa/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
