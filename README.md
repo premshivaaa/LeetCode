@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/premshivaaa/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/premshivaaa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/premshivaaa/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/premshivaaa/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/premshivaaa/LeetCode/tree/master/3206-alternating-groups-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/premshivaaa/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/premshivaaa/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premshivaaa/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/premshivaaa/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/premshivaaa/LeetCode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Heap (Priority Queue)
 |  |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/premshivaaa/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/premshivaaa/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/premshivaaa/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/premshivaaa/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/premshivaaa/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3493-properties-graph](https://github.com/premshivaaa/LeetCode/tree/master/3493-properties-graph) |
@@ -798,4 +801,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/premshivaaa/LeetCode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/premshivaaa/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
