@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/premshivaaa/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/premshivaaa/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/premshivaaa/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/premshivaaa/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/premshivaaa/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/premshivaaa/LeetCode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3206-alternating-groups-i](https://github.com/premshivaaa/LeetCode/tree/master/3206-alternating-groups-i) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/premshivaaa/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/premshivaaa/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/premshivaaa/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/premshivaaa/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |
 | ------- |
